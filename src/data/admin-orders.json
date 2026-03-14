@@ -1,0 +1,72 @@
+[
+    {
+        "id": "ORD-2025-001",
+        "clientName": "Meridian Financial Services",
+        "contactPerson": "Thabo Mokoena",
+        "product": "HP LaserJet Pro MFP M428fdw",
+        "quantity": 2,
+        "total": 24999.98,
+        "date": "2025-03-08",
+        "status": "Completed"
+    },
+    {
+        "id": "ORD-2025-002",
+        "clientName": "Gauteng Legal Group",
+        "contactPerson": "Naledi Khumalo",
+        "product": "HP 58A Black LaserJet Toner",
+        "quantity": 10,
+        "total": 18999.90,
+        "date": "2025-03-09",
+        "status": "Processing"
+    },
+    {
+        "id": "ORD-2025-003",
+        "clientName": "Sandton Medical Centre",
+        "contactPerson": "Dr. Pieter van Wyk",
+        "product": "Typek A4 Printing Paper (5 Reams)",
+        "quantity": 50,
+        "total": 22499.50,
+        "date": "2025-03-10",
+        "status": "Pending"
+    },
+    {
+        "id": "ORD-2025-004",
+        "clientName": "Joburg Accounting Partners",
+        "contactPerson": "Sipho Ndlovu",
+        "product": "HP 63XL Tri-Color Ink Cartridge",
+        "quantity": 15,
+        "total": 11249.85,
+        "date": "2025-03-10",
+        "status": "Pending"
+    },
+    {
+        "id": "ORD-2025-005",
+        "clientName": "Pretoria Engineering Solutions",
+        "contactPerson": "Johan Botha",
+        "product": "Handy Andy Industrial Cleaner (5L)",
+        "quantity": 30,
+        "total": 4799.70,
+        "date": "2025-03-07",
+        "status": "Completed"
+    },
+    {
+        "id": "ORD-2025-006",
+        "clientName": "Midrand Tech Hub",
+        "contactPerson": "Amahle Dlamini",
+        "product": "HP OfficeJet Pro 9015e",
+        "quantity": 3,
+        "total": 17099.97,
+        "date": "2025-03-06",
+        "status": "Completed"
+    },
+    {
+        "id": "ORD-2025-007",
+        "clientName": "Cape Town Design Studio",
+        "contactPerson": "Lerato Molefe",
+        "product": "Rexel Odyssey Heavy Duty Stapler",
+        "quantity": 5,
+        "total": 1949.95,
+        "date": "2025-03-10",
+        "status": "Processing"
+    }
+]

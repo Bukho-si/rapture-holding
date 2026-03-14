@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1",
+    "name": "HP LaserJet Pro MFP M428fdw",
+    "category": "Printers",
+    "description": "High-performance multifunction laser printer with wireless connectivity, automatic duplex printing, and fast print speeds up to 40 ppm. Perfect for busy office environments.",
+    "price": 12499.99,
+    "image": "/products/printer.svg",
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "HP 58A Black LaserJet Toner Cartridge",
+    "category": "Toners",
+    "description": "Original HP toner cartridge delivering consistent, professional-quality results page after page. Yields approximately 3,000 pages.",
+    "price": 1899.99,
+    "image": "/products/toner.svg",
+    "featured": true
+  },
+  {
+    "id": "3",
+    "name": "HP 63XL Tri-Color Ink Cartridge",
+    "category": "Ink Cartridges",
+    "description": "High-yield tri-color ink cartridge for vibrant, true-to-life color prints. Compatible with HP DeskJet, ENVY, and OfficeJet series printers.",
+    "price": 749.99,
+    "image": "/products/ink.svg",
+    "featured": false
+  },
+  {
+    "id": "4",
+    "name": "Typek A4 Printing Paper (5 Reams)",
+    "category": "Office Supplies",
+    "description": "Premium quality 80gsm white A4 paper. Box of 5 reams (2,500 sheets). Ideal for high-volume printing and everyday office use.",
+    "price": 449.99,
+    "image": "/products/paper.svg",
+    "featured": true
+  },
+  {
+    "id": "5",
+    "name": "Rexel Odyssey Heavy Duty Stapler",
+    "category": "Office Supplies",
+    "description": "Professional heavy-duty stapler capable of stapling up to 60 sheets at once. Ergonomic design with all-metal construction for durability.",
+    "price": 389.99,
+    "image": "/products/stapler.svg",
+    "featured": false
+  },
+  {
+    "id": "6",
+    "name": "Handy Andy Industrial Cleaning Detergent 5L",
+    "category": "Cleaning Materials",
+    "description": "Concentrated multi-surface industrial cleaner suitable for offices, factories, and commercial spaces. Powerful formula removes grease and grime.",
+    "price": 159.99,
+    "image": "/products/cleaning.svg",
+    "featured": true
+  },
+  {
+    "id": "7",
+    "name": "HP OfficeJet Pro 9015e All-in-One Printer",
+    "category": "Printers",
+    "description": "Smart office all-in-one printer with advanced scanning, copying, and faxing capabilities. Features smart tasks and self-healing Wi-Fi.",
+    "price": 8999.99,
+    "image": "/products/printer2.svg",
+    "featured": false
+  },
+  {
+    "id": "8",
+    "name": "Samsung MLT-D101S Black Toner",
+    "category": "Toners",
+    "description": "Genuine Samsung black toner cartridge with approximately 1,500-page yield. Produces sharp text and crisp graphics for professional documents.",
+    "price": 1299.99,
+    "image": "/products/toner2.svg",
+    "featured": false
+  },
+  {
+    "id": "9",
+    "name": "BIC Cristal Ballpoint Pens (50 Pack)",
+    "category": "Office Supplies",
+    "description": "Classic medium-point ballpoint pens in assorted colors. Smooth writing, long-lasting ink, and durable hexagonal barrel design.",
+    "price": 199.99,
+    "image": "/products/pens.svg",
+    "featured": false
+  },
+  {
+    "id": "10",
+    "name": "Mr Muscle Multi-Surface Cleaner 750ml",
+    "category": "Cleaning Materials",
+    "description": "Professional-grade multi-surface cleaner that cuts through grease and dirt. Safe for use on desks, glass, and kitchen surfaces.",
+    "price": 69.99,
+    "image": "/products/cleaner2.svg",
+    "featured": false
+  },
+  {
+    "id": "11",
+    "name": "Canon PIXMA G3420 MegaTank Printer",
+    "category": "Printers",
+    "description": "Refillable ink tank wireless printer with ultra-low running costs. Print up to 7,700 pages per bottle. Perfect for high-volume office printing.",
+    "price": 4599.99,
+    "image": "/products/printer3.svg",
+    "featured": false
+  },
+  {
+    "id": "12",
+    "name": "Epson 664 EcoTank Ink Bottle Set",
+    "category": "Ink Cartridges",
+    "description": "Set of 4 genuine Epson ink bottles (Black, Cyan, Magenta, Yellow) for EcoTank printers. Ultra-high page yield for cost-effective printing.",
+    "price": 599.99,
+    "image": "/products/ink2.svg",
+    "featured": false
+  }
+]

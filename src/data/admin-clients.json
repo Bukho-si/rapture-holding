@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "companyName": "Meridian Financial Services",
+        "contactPerson": "Thabo Mokoena",
+        "email": "thabo@meridianfs.co.za",
+        "phone": "011 234 5678",
+        "lastOrder": "2025-03-08",
+        "totalOrders": 12,
+        "status": "Active"
+    },
+    {
+        "id": 2,
+        "companyName": "Gauteng Legal Group",
+        "contactPerson": "Naledi Khumalo",
+        "email": "naledi@gautenglegal.co.za",
+        "phone": "011 876 5432",
+        "lastOrder": "2025-03-09",
+        "totalOrders": 8,
+        "status": "Active"
+    },
+    {
+        "id": 3,
+        "companyName": "Sandton Medical Centre",
+        "contactPerson": "Dr. Pieter van Wyk",
+        "email": "pvw@sandtonmedical.co.za",
+        "phone": "011 456 7890",
+        "lastOrder": "2025-03-10",
+        "totalOrders": 15,
+        "status": "Active"
+    },
+    {
+        "id": 4,
+        "companyName": "Joburg Accounting Partners",
+        "contactPerson": "Sipho Ndlovu",
+        "email": "sipho@joburgaccounting.co.za",
+        "phone": "010 123 4567",
+        "lastOrder": "2025-03-10",
+        "totalOrders": 6,
+        "status": "Active"
+    },
+    {
+        "id": 5,
+        "companyName": "Pretoria Engineering Solutions",
+        "contactPerson": "Johan Botha",
+        "email": "johan@pretoriaeng.co.za",
+        "phone": "012 345 6789",
+        "lastOrder": "2025-03-07",
+        "totalOrders": 22,
+        "status": "Active"
+    },
+    {
+        "id": 6,
+        "companyName": "Midrand Tech Hub",
+        "contactPerson": "Amahle Dlamini",
+        "email": "amahle@midrandtech.co.za",
+        "phone": "011 567 8901",
+        "lastOrder": "2025-03-06",
+        "totalOrders": 4,
+        "status": "Active"
+    },
+    {
+        "id": 7,
+        "companyName": "Cape Town Design Studio",
+        "contactPerson": "Lerato Molefe",
+        "email": "lerato@ctdesign.co.za",
+        "phone": "021 987 6543",
+        "lastOrder": "2025-03-10",
+        "totalOrders": 3,
+        "status": "New"
+    },
+    {
+        "id": 8,
+        "companyName": "Durban Logistics Co",
+        "contactPerson": "Themba Mkhize",
+        "email": "themba@durbanlog.co.za",
+        "phone": "031 456 1234",
+        "lastOrder": "2025-02-28",
+        "totalOrders": 9,
+        "status": "Inactive"
+    }
+]

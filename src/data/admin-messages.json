@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Thabo Mokoena",
+        "company": "Meridian Financial Services",
+        "email": "thabo@meridianfs.co.za",
+        "type": "Order Request",
+        "message": "Hi, we need to reorder 5 HP 58A toner cartridges for our office printers. Please send a quote.",
+        "date": "2025-03-10",
+        "read": false
+    },
+    {
+        "id": 2,
+        "name": "Naledi Khumalo",
+        "company": "Gauteng Legal Group",
+        "email": "naledi@gautenglegal.co.za",
+        "type": "Quote Request",
+        "message": "We are looking for a bulk deal on A4 paper (100+ reams) and toner cartridges. Please provide corporate pricing.",
+        "date": "2025-03-09",
+        "read": false
+    },
+    {
+        "id": 3,
+        "name": "Dr. Pieter van Wyk",
+        "company": "Sandton Medical Centre",
+        "email": "pvw@sandtonmedical.co.za",
+        "type": "Contact Form",
+        "message": "We are interested in a maintenance contract for our HP LaserJet printers. Please call to discuss options.",
+        "date": "2025-03-09",
+        "read": true
+    },
+    {
+        "id": 4,
+        "name": "Sipho Ndlovu",
+        "company": "Joburg Accounting Partners",
+        "email": "sipho@joburgaccounting.co.za",
+        "type": "Order Request",
+        "message": "Please process our monthly order: 10 reams A4 paper, 3 HP 63XL ink cartridges, 2 boxes of pens.",
+        "date": "2025-03-08",
+        "read": true
+    },
+    {
+        "id": 5,
+        "name": "Amahle Dlamini",
+        "company": "Midrand Tech Hub",
+        "email": "amahle@midrandtech.co.za",
+        "type": "Quote Request",
+        "message": "We need pricing for 5 new HP OfficeJet Pro printers for our new office space opening in April.",
+        "date": "2025-03-07",
+        "read": true
+    },
+    {
+        "id": 6,
+        "name": "Lerato Molefe",
+        "company": "Cape Town Design Studio",
+        "email": "lerato@ctdesign.co.za",
+        "type": "Contact Form",
+        "message": "Do you deliver to Cape Town? We are looking for a reliable office supply partner in Johannesburg.",
+        "date": "2025-03-06",
+        "read": true
+    }
+]

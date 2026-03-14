@@ -1,0 +1,78 @@
+{
+    "orders": [
+        {
+            "id": "ORD-2024-001",
+            "date": "2024-12-15",
+            "status": "Delivered",
+            "items": [
+                {
+                    "productId": "1",
+                    "name": "HP LaserJet Pro MFP M428fdw",
+                    "quantity": 2,
+                    "price": 12499.99
+                },
+                {
+                    "productId": "4",
+                    "name": "Typek A4 Printing Paper (5 Reams)",
+                    "quantity": 10,
+                    "price": 449.99
+                }
+            ],
+            "total": 29499.88
+        },
+        {
+            "id": "ORD-2024-002",
+            "date": "2025-01-08",
+            "status": "Delivered",
+            "items": [
+                {
+                    "productId": "2",
+                    "name": "HP 58A Black LaserJet Toner Cartridge",
+                    "quantity": 5,
+                    "price": 1899.99
+                },
+                {
+                    "productId": "9",
+                    "name": "BIC Cristal Ballpoint Pens (50 Pack)",
+                    "quantity": 3,
+                    "price": 199.99
+                }
+            ],
+            "total": 10099.92
+        },
+        {
+            "id": "ORD-2025-003",
+            "date": "2025-02-20",
+            "status": "Processing",
+            "items": [
+                {
+                    "productId": "6",
+                    "name": "Handy Andy Industrial Cleaning Detergent 5L",
+                    "quantity": 8,
+                    "price": 159.99
+                },
+                {
+                    "productId": "10",
+                    "name": "Mr Muscle Multi-Surface Cleaner 750ml",
+                    "quantity": 12,
+                    "price": 69.99
+                }
+            ],
+            "total": 2119.80
+        }
+    ],
+    "savedProducts": [
+        "1",
+        "2",
+        "4",
+        "6",
+        "9"
+    ],
+    "clientInfo": {
+        "companyName": "Meridian Financial Services",
+        "contactPerson": "Thabo Mokoena",
+        "email": "thabo@meridianfs.co.za",
+        "phone": "+27 11 555 0190",
+        "accountNumber": "RH-CORP-2024-0042"
+    }
+}
