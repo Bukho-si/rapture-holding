@@ -176,10 +176,11 @@ export default function AdminDashboard() {
                                         border: "1px solid #e2e8f0",
                                         boxShadow: "0 4px 12px rgba(0,0,0,0.08)",
                                     }}
-                                    formatter={(value: number) => [
-                                        `R ${value.toLocaleString()}`,
-                                        "Revenue",
-                                    ]}
+                                    formatter={(value) => [
+  `R ${Number(value).toLocaleString()}`,
+  "Revenue"
+]}
+                                    
                                 />
                                 <Area
                                     type="monotone"
